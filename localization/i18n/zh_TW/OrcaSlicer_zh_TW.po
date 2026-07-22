@@ -3862,7 +3862,7 @@ msgstr "已成功傳送。將自動跳至 %ss 中的下一頁"
 
 #, c-format, boost-format
 msgid "Access code:%s IP address:%s"
-msgstr "訪問代碼：%s　IP 位址：%s"
+msgstr "存取代碼：%s　IP 位址：%s"
 
 msgid "A Storage needs to be inserted before printing via LAN."
 msgstr "透過區域網路列印前需要插入儲存空間。"
@@ -5995,20 +5995,20 @@ msgid "Connect Printer (LAN)"
 msgstr "連線列印裝置（區域網路）"
 
 msgid "Please input the printer access code:"
-msgstr "請輸入列印裝置訪問代碼："
+msgstr "請輸入列印裝置存取代碼："
 
 msgid ""
 "You can find it in \"Settings > Network > Access code\"\n"
 "on the printer, as shown in the figure:"
 msgstr ""
-"您可以在列印裝置的「設定 > 網路 > 訪問代碼」中找到，\n"
+"您可以在列印裝置的「設定 > 網路 > 存取代碼」中找到，\n"
 "如圖所示："
 
 msgid ""
 "You can find it in \"Setting > Setting > LAN only > Access Code\"\n"
 "on the printer, as shown in the figure:"
 msgstr ""
-"您可以在列印裝置的「設定 > 設定 > 僅區域網路 > 訪問代碼」中找到，\n"
+"您可以在列印裝置的「設定 > 設定 > 僅區域網路 > 存取代碼」中找到，\n"
 "如圖所示："
 
 # TODO: Review, changed by lang refactor. PR 14254
@@ -6851,7 +6851,7 @@ msgid "Online"
 msgstr "在線"
 
 msgid "Input access code"
-msgstr "輸入訪問代碼"
+msgstr "輸入存取代碼"
 
 # TODO: Review, changed by lang refactor. PR 14254
 msgid "Can't find devices?"
@@ -6897,7 +6897,7 @@ msgid "Bind with Pin Code"
 msgstr "Pin碼綁定"
 
 msgid "Bind with Access Code"
-msgstr "透過訪問代碼綁定"
+msgstr "透過存取代碼綁定"
 
 msgctxt "Quit_Switching"
 msgid "Quit"
@@ -11564,7 +11564,7 @@ msgid "Confirm and Update Nozzle"
 msgstr "確認並更新噴嘴"
 
 msgid "Connect the printer using IP and access code"
-msgstr "透過 IP 和訪問代碼連線列印裝置"
+msgstr "透過 IP 和存取代碼連線列印裝置"
 
 msgid "Try the following methods to update the connection parameters and reconnect to the printer."
 msgstr "請嘗試以下方法更新連線參數並重新連線列印裝置。"
@@ -11573,7 +11573,7 @@ msgid "1. Please confirm Orca Slicer and your printer are in the same LAN."
 msgstr "1. 請確認 Orca Slicer 與您的列印裝置在同一區域網路內。"
 
 msgid "2. If the IP and Access Code below are different from the actual values on your printer, please correct them."
-msgstr "2. 若下方的 IP 和訪問代碼與列印裝置上的實際值不同，請修正它們。"
+msgstr "2. 若下方的 IP 和存取代碼與列印裝置上的實際值不同，請修正它們。"
 
 msgid "3. Please obtain the device SN from the printer side; it is usually found in the device information on the printer screen."
 msgstr "3. 請從列印裝置端獲取裝置序號；通常可在列印裝置螢幕的裝置資訊中找到。"
@@ -11582,7 +11582,7 @@ msgid "IP"
 msgstr "IP"
 
 msgid "Access Code"
-msgstr "訪問代碼"
+msgstr "存取代碼"
 
 msgid "Printer model"
 msgstr "列印裝置型號"
@@ -11591,7 +11591,7 @@ msgid "Printer name"
 msgstr "列印裝置名稱"
 
 msgid "Where to find your printer's IP and Access Code?"
-msgstr "在哪裡可以找到列印裝置的 IP 和訪問代碼?"
+msgstr "在哪裡可以找到列印裝置的 IP 和存取代碼?"
 
 msgid "How to trouble shooting"
 msgstr ""
@@ -11603,7 +11603,7 @@ msgid "Manual Setup"
 msgstr "手動設定"
 
 msgid "IP and Access Code Verified! You may close the window"
-msgstr "IP 和訪問代碼已驗證！可以關閉視窗"
+msgstr "IP 和存取代碼已驗證！可以關閉視窗"
 
 msgid "connecting..."
 msgstr "連線中..."
@@ -11624,13 +11624,13 @@ msgid "Connecting to printer... The dialog will close later"
 msgstr "正在連線列印裝置… 對話框將在稍後自動關閉"
 
 msgid "Connection failed, please double check IP and Access Code"
-msgstr "連線失敗，請再次檢查 IP 和訪問代碼"
+msgstr "連線失敗，請再次檢查 IP 和存取代碼"
 
 msgid ""
 "Connection failed! If your IP and Access Code is correct, \n"
 "please move to step 3 for troubleshooting network issues"
 msgstr ""
-"連線失敗！如果 IP 和訪問代碼正確，\n"
+"連線失敗！如果 IP 和存取代碼正確，\n"
 "請進入第 3 步進行網路問題排解"
 
 msgid "Connection failed! Please refer to the wiki page."
@@ -20109,7 +20109,7 @@ msgid "Could not connect to Flashforge via serial"
 msgstr "無法透過串列埠連線 Flashforge"
 
 msgid "Flashforge local API requires both serial number and access code."
-msgstr "Flashforge 本機 API 需要序號與存取碼。"
+msgstr "Flashforge 本機 API 需要序號與存取代碼。"
 
 msgid "Printer returned an error"
 msgstr "列印裝置傳回錯誤"
@@ -20127,7 +20127,7 @@ msgid "ElegooLink not detected"
 msgstr "未偵測到 ElegooLink"
 
 msgid "Invalid access code"
-msgstr "無效的存取碼"
+msgstr "無效的存取代碼"
 
 msgid "CC2 device not detected"
 msgstr "未偵測到 CC2 裝置"
